@@ -1,0 +1,44 @@
+"static_data": [],
+  "dynamic_data": [
+    {
+      "id": 1,
+      "cd": 2,
+      "eff": 80,
+      "membrane": "Raptured",
+      "c_o_af": "Clear",
+      "pelAd": "Yes",
+      "bp": "120/80",
+      "time": "17:25:42"
+    },
+    {
+      "id": 2,
+      "cd": 4,
+      "eff": 80,
+      "membrane": "Raptured",
+      "c_o_af": "Clear",
+      "pelAd": "Yes",
+      "bp": "120/80",
+      "time": "17:26:11"
+    },
+    {
+      "id": 3,
+      "cd": 6,
+      "eff": 90,
+      "membrane": "Raptured",
+      "c_o_af": "Clear",
+      "pelAd": "Yes",
+      "bp": "120/80",
+      "time": "17:26:47"
+    },
+    {
+      "id": 4,
+      "cd": 10,
+      "eff": 100,
+      "membrane": "Raptured",
+      "c_o_af": "Clear",
+      "pelAd": "Yes",
+      "bp": "120/80",
+      "time": "17:27:5"
+    }
+  ]
+}
